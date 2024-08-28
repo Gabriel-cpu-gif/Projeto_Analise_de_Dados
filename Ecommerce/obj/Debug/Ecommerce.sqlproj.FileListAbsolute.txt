@@ -1,0 +1,18 @@
+C:\Users\Gabriel Euller\OneDrive\Documentos\SQL Server Management Studio\VisualStudio\Ecommerce\bin\Debug\Ecommerce.dacpac
+C:\Users\Gabriel Euller\OneDrive\Documentos\SQL Server Management Studio\VisualStudio\Ecommerce\bin\Debug\Ecommerce.dll
+C:\Users\Gabriel Euller\OneDrive\Documentos\SQL Server Management Studio\VisualStudio\Ecommerce\bin\Debug\Ecommerce.pdb
+C:\Users\Gabriel Euller\OneDrive\Documentos\SQL Server Management Studio\VisualStudio\Ecommerce\obj\Debug\Ecommerce.sqlproj.AssemblyReference.cache
+C:\Users\Gabriel Euller\OneDrive\Documentos\SQL Server Management Studio\VisualStudio\Ecommerce\obj\Debug\Ecommerce.dll
+C:\Users\Gabriel Euller\OneDrive\Documentos\SQL Server Management Studio\VisualStudio\Ecommerce\obj\Debug\Ecommerce.pdb
+C:\SQL Server Management Studio\VisualStudio\Ecommerce\bin\Debug\Ecommerce.dacpac
+C:\SQL Server Management Studio\VisualStudio\Ecommerce\bin\Debug\Ecommerce.dll
+C:\SQL Server Management Studio\VisualStudio\Ecommerce\bin\Debug\Ecommerce.pdb
+C:\SQL Server Management Studio\VisualStudio\Ecommerce\obj\Debug\Ecommerce.sqlproj.AssemblyReference.cache
+C:\SQL Server Management Studio\VisualStudio\Ecommerce\obj\Debug\Ecommerce.dll
+C:\SQL Server Management Studio\VisualStudio\Ecommerce\obj\Debug\Ecommerce.pdb
+C:\SQL Server Management Studio\VisualStudio_exercicio\Ecommerce\bin\Debug\Ecommerce.dacpac
+C:\SQL Server Management Studio\VisualStudio_exercicio\Ecommerce\bin\Debug\Ecommerce.dll
+C:\SQL Server Management Studio\VisualStudio_exercicio\Ecommerce\bin\Debug\Ecommerce.pdb
+C:\SQL Server Management Studio\VisualStudio_exercicio\Ecommerce\obj\Debug\Ecommerce.sqlproj.AssemblyReference.cache
+C:\SQL Server Management Studio\VisualStudio_exercicio\Ecommerce\obj\Debug\Ecommerce.dll
+C:\SQL Server Management Studio\VisualStudio_exercicio\Ecommerce\obj\Debug\Ecommerce.pdb
